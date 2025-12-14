@@ -299,13 +299,13 @@ textarea.contact-inputs {
 .social-links a {
   font-size: 1.4rem;
   color: rgba(2, 90, 78, 0.6);
+  transition: color 0.3s ease, transform 0.3s ease;
 }
 
 .social-links a:hover {
   color: rgba(2, 90, 78, 1);
+  transform: translateY(-2px);
 }
-
-
 
 
 
