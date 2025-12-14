@@ -288,6 +288,26 @@ textarea.contact-inputs {
   border-top: 1px solid rgba(2, 90, 78, 0.15);
 }
 
+/* SOCIAL LINKS */
+.social-links {
+  margin-top: 0.75rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.social-links a {
+  font-size: 1.4rem;
+  color: rgba(2, 90, 78, 0.6);
+}
+
+.social-links a:hover {
+  color: rgba(2, 90, 78, 1);
+}
+
+
+
+
 
 
 /* TABLET STYLING */
